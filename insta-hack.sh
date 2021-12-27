@@ -17,7 +17,7 @@ apt-get install python
 apt-get install python2
 clear
 echo -e "$Purple Created By \e[1;34m"
-       figlet Monsterlallu Kch Team | lolcat
+       figlet Monster Lallu   Kch Team | lolcat
 sleep 2.0
     echo -e " \e[96m  
                                      ████████ \e[0m"
@@ -69,7 +69,7 @@ echo " "
         
         exit
     elif [ $ch -eq 3 ];then
-        git clone https://github.com/mrwn007/007spam-BOT.git
+        git clone https://github.com/Cyber-Black-Hacker/007spam-BOT.git
         cd 007spam-BOT
         pip install requests
         python3 bot.py
