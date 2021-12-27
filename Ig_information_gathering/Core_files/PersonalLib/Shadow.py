@@ -39,12 +39,12 @@ dict = {
 ''',
 	"Draw" : '''
 
-	    + - -- [ BY incredible hacker ]
+	    + - -- [ BY Monster Lallu Kch ]
 	    + - -- [ V 1.5 ]
-	    + - -- [ YouTube : Incredible hacker ]
-            + - -- [ Telegram : @incrediblehackers]
-            + - -- [ Instagram : @ncrediblehackers_official ]
-            + - -- [ whatsapp no. : +91 8510010786 ]
+	    + - -- [ YouTube : Monster Lallu Kch ]
+            + - -- [ Telegram : @Monster Lallu Kch]
+            + - -- [ Instagram : @monster_lallu_official ]
+            + - -- [ whatsapp no. : +1 9175604957 ]
 
 	>>>  EXIT USE : CTRL + C + ENTER  <<<
 ''',
