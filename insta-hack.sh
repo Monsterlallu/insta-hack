@@ -17,7 +17,7 @@ apt-get install python
 apt-get install python2
 clear
 echo -e "$Purple Hacked By \e[1;34m"
-       figlet Monster Lallu   Kch Team | lolcat
+       figlet Hisham Lallu   Kch Team | lolcat
 sleep 2.0
     echo -e " \e[96m  
                                      ████████ \e[0m"
